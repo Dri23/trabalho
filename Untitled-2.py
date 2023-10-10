@@ -1,4 +1,4 @@
-n1 = int(input("Entre com a nota 1: "))8
+n1 = int(input("Entre com a nota 1: "))
 n2 = int(input("Entre com a nota 2: "))
 n3 = int(input("Entre com a nota 3: "))
 n4 = int(input("Entre com a nota 4: "))
